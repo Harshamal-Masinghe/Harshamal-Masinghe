@@ -12,8 +12,8 @@
         }
         /* Adjust image sizes for mobile screens */
         img {
-            max-width: 10%;
-            height: auto;
+            max-width: 100%;
+            max-height: 100%;
         }
         /* Center align text for small screens */
         h3 {
