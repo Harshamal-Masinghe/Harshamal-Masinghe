@@ -1,3 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* Add CSS styles for mobile responsiveness here */
+        body {
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            font-size: 24px;
+        }
+        /* Adjust image sizes for mobile screens */
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        /* Center align text for small screens */
+        h3 {
+            text-align: center;
+        }
+        /* Center align social icons for small screens */
+        .social-icons {
+            text-align: center;
+        }
+        /* Add more styles as needed */
+    </style>
+</head>
+<body>
+
 <!-- Horizontal Divider (Gradient) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -46,3 +76,5 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%;">
 </div>
 
+</body>
+</html>
