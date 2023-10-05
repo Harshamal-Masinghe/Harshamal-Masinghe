@@ -6,6 +6,8 @@
         /* Add CSS styles for mobile responsiveness here */
         body {
             font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
         }
         h1 {
             font-size: 24px;
@@ -13,7 +15,8 @@
         /* Adjust image sizes for mobile screens */
         img {
             max-width: 100%;
-            max-height: 100%;
+            height: auto;
+            display: block;
         }
         /* Center align text for small screens */
         h3 {
@@ -22,6 +25,10 @@
         /* Center align social icons for small screens */
         .social-icons {
             text-align: center;
+        }
+        /* Improve spacing for better mobile readability */
+        p {
+            margin: 10px 0;
         }
         /* Add more styles as needed */
     </style>
