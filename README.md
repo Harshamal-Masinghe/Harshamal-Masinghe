@@ -12,12 +12,13 @@
         h1 {
             font-size: 24px;
         }
-        /* Adjust image sizes for mobile screens */
+        /* Adjust image sizes for mobile screens 
         img {
             max-width: 100%;
             height: auto;
             display: block;
         }
+        */
         /* Center align text for small screens */
         h3 {
             text-align: center;
