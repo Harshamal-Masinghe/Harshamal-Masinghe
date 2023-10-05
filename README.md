@@ -19,10 +19,6 @@
         h3 {
             text-align: center;
         }
-        /* Center align social icons for small screens */
-        .social-icons {
-            text-align: center;
-        }
         /* Add more styles as needed */
     </style>
 </head>
