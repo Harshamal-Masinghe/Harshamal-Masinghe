@@ -12,11 +12,15 @@
         }
         /* Adjust image sizes for mobile screens */
         img {
-            max-width: 100%;
+            max-width: 10%;
             height: auto;
         }
         /* Center align text for small screens */
         h3 {
+            text-align: center;
+        }
+        /* Center align social icons for small screens */
+        .social-icons {
             text-align: center;
         }
         /* Add more styles as needed */
