@@ -28,6 +28,9 @@
 </head>
 <body>
 
+<!-- Your existing HTML content here -->
+<!-- I've included your original HTML content below for reference -->
+
 <!-- Horizontal Divider (Gradient) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -39,7 +42,7 @@
 </div>
 
 <!-- About Me -->
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> About me
+<h2>About me</h2>
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"></picture>
 
@@ -50,7 +53,7 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<p align="center">
+<p align="center" class="social-icons">
   <a href="https://linkedin.com/in/harshamal-masinghe-a8b964216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshamal masinghe" height="30" width="40" /></a>
   <a href="https://www.facebook.com/harshamal.masinghe.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshamal masinghe" height="30" width="40" /></a>
   <a href="https://instagram.com/harsha_001x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsha_001x" height="30" width="40" /></a>
@@ -65,16 +68,22 @@
   <table style="border: none;">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Harshamal-Masinghe&theme=dark&show_icons=true&count_private=true" />
-      </td>
-    </tr>
+        <img src="https://github-readme-stats.vercel.app/api?username=Harshamal-Masinghe&theme=dark&show_icons=true&count_private=true” />
+
+
+
   </table>
+
 
   <br>
 
+
   <!-- Horizontal Divider (Gradient) -->
+
+
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%;">
 </div>
+
 
 </body>
 </html>
