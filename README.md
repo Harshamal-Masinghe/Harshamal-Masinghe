@@ -4,14 +4,14 @@
 <!-- H1 without bottom border -->
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Harsha</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Harsha</h1></summary>
   </ul>
 </div>
 
 <!-- About Me -->
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> About me
 
-<picture> <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200px"></picture>
 
 - 🌱 I’m currently learning **OOP with Java**
 - 🏫 I'm an undergraduate at [SLIIT](https://www.sliit.lk/)
