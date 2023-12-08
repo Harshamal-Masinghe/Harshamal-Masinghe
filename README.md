@@ -1,5 +1,5 @@
 <!-- Horizontal Divider (Gradient) -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <!-- H1 without bottom border -->
 <div id="user-content-toc">
@@ -9,6 +9,7 @@
 </div>
 
 ## <h3 align="center">A passionate Software developer from Sri Lanka</h3>
+
 
 <!-- About Me -->
  <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> About me
