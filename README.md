@@ -37,9 +37,9 @@
 
 ### Stats & Trophy:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Harshamal-Masinghe&show_icons=true&locale=en&layout=compact) <br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshamal-Masinghe&show_icons=true&locale=en)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshamal-Masinghe)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Harshamal-Masinghe)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshamal-Masinghe&show_icons=true&locale=en) <br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshamal-Masinghe) <br>
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Harshamal-Masinghe) <br>
 
   <!-- Horizontal Divider (Gradient) -->
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
