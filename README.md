@@ -1,43 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        /* Add CSS styles for mobile responsiveness here */
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        h1 {
-            font-size: 24px;
-        }
-        /* Adjust image sizes for mobile screens 
-        img {
-            max-width: 100%;
-            height: auto;
-            display: block;
-        }
-        */
-        /* Center align text for small screens */
-        h3 {
-            text-align: center;
-        }
-        /* Center align social icons for small screens */
-        .social-icons {
-            text-align: center;
-        }
-        /* Improve spacing for better mobile readability */
-        p {
-            margin: 10px 0;
-        }
-        /* Add more styles as needed */
-    </style>
-</head>
-<body>
-
 <!-- Horizontal Divider (Gradient) -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%; max-width: 5%; height: auto;">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- H1 without bottom border -->
 <div id="user-content-toc">
@@ -47,9 +9,9 @@
 </div>
 
 <!-- About Me -->
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"></picture> About me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200px"></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"></picture>
 
 - 🌱 I’m currently learning **OOP with Java**
 - 🏫 I'm an undergraduate at [SLIIT](https://www.sliit.lk/)
@@ -83,7 +45,4 @@
   <!-- Horizontal Divider (Gradient) -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%;">
 </div>
-
-</body>
-</html>
 
