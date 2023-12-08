@@ -1,14 +1,11 @@
 <!-- Horizontal Divider (Gradient) -->
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<!-- H1 without bottom border -->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Harshamal Masinghe</h1></summary>
-  </ul>
+    <h1 align="center" style="display: inline-block">Hi 👋, I'm Harshamal Masinghe</h1>
 </div>
 
-## <h3 align="center">A passionate Software developer from Sri Lanka</h3>
+<h3 align="center">A passionate Software developer from Sri Lanka</h3>
 
 
 <!-- About Me -->
