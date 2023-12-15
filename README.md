@@ -4,13 +4,9 @@
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 [![](https://visitcount.itsvg.in/api?id=Harshamal-Masinghe&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<div id="user-content-toc">
-    <h1 align="center" style="display: inline-block">Hi 👋, I'm Harshamal Masinghe</h1>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&random=false&width=480&lines=Hi+%F0%9F%91%8B%2C+I'm+Harshamal+Masinghe;Undergraduate+Student;Competitive+Programmer;Always+learning+new+things" alt="Typing SVG" />
 </div>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&pause=1000&color=2298B3&center=true&vCenter=true&random=true&width=435&lines=Undergraduate+Student;Competitive+Programmer;Always+learning+new+things" alt="Typing SVG" /></a>
-</p>
 
 <!-- About Me -->
 About me <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture>
