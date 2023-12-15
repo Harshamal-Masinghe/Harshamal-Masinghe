@@ -5,7 +5,7 @@
     <h1 align="center" style="display: inline-block">Hi 👋, I'm Harshamal Masinghe</h1>
 </div>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Undergraduate+Student;Competitive+Programmer;Always+learning+new+things"></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&pause=1000&color=2298B3&center=true&vCenter=true&random=true&width=435&lines=Undergraduate+Student;Competitive+Programmer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 <!-- About Me -->
