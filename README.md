@@ -1,9 +1,13 @@
+[![](https://visitcount.itsvg.in/api?id=Harshamal-Masinghe&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!-- Horizontal Divider (Gradient) -->
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 [![](https://visitcount.itsvg.in/api?id=Harshamal-Masinghe&icon=0&color=1)](https://visitcount.itsvg.in)
+
 <div id="user-content-toc">
     <h1 align="center" style="display: inline-block">Hi 👋, I'm Harshamal Masinghe</h1>
 </div>
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&pause=1000&color=2298B3&center=true&vCenter=true&random=true&width=435&lines=Undergraduate+Student;Competitive+Programmer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
@@ -33,7 +37,7 @@ About me <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/
 
 ## GitHub Trophies <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
 ![](https://github-profile-trophy.vercel.app/?username=Harshamal-Masinghe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-[![](https://visitcount.itsvg.in/api?id=Harshamal-Masinghe&icon=0&color=0)](https://visitcount.itsvg.in)
+
   <!-- Horizontal Divider (Gradient) -->
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
