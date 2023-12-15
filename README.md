@@ -5,8 +5,10 @@
 [![](https://visitcount.itsvg.in/api?id=Harshamal-Masinghe&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&random=false&width=480&lines=Hi+%F0%9F%91%8B%2C+I'm+Harshamal+Masinghe;Undergraduate+Student+at+SLIIT;Competitive+Programmer;Always+learning+new+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&center=true&vCenter=true&random=false&width=580&height=40&lines=Hi+%F0%9F%91%8B%2C+I'm+Harshamal+Masinghe;Undergraduate+Student+at+SLIIT;Competitive+Programmer;Always+learning+new+things" alt="Typing SVG" />
 </div>
+
+--- 
 
 <!-- About Me -->
 About me <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture>
