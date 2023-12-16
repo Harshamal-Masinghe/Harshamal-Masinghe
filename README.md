@@ -1,8 +1,7 @@
-[![](https://visitcount.itsvg.in/api?id=Harshamal-Masinghe&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Horizontal Divider (Gradient) -->
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-[![](https://visitcount.itsvg.in/api?id=Harshamal-Masinghe&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Harshamal-Masinghe&label=Profile%20views&color=0e75b6&style=plastic" alt="Harshamal-Masinghe" /> </p>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&center=true&vCenter=true&random=false&width=580&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Harshamal+Masinghe;Undergraduate+Student+at+SLIIT;Competitive+Programmer;Always+learning+new+things" alt="Typing SVG" />
