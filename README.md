@@ -21,7 +21,7 @@
 About me <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture>
 ---
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Next.js, Spring Boot(Java)**
   
 - 📫 How to reach me **harshamalmasinghe2001@gmail.com**
 
