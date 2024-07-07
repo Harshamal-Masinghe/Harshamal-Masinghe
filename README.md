@@ -21,7 +21,7 @@
 ---
 - 👨‍💻 I’m currently learning **web application development**.
 - 📩 How to reach me: **harshamalmasinghe2001@gmail.com**
-- 🎯 Fun fact: You can call me **Harsha**!
+- :octocat: Fun fact: You can call me **Harsha**!
 
 
 
