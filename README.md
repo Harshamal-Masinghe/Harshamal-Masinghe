@@ -66,15 +66,15 @@
 
 ### GitHub Stats: <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"></picture>
 ---
-#### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshamal-Masinghe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-#### ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshamal-Masinghe&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-#### ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshamal-Masinghe&theme=dark&hide_border=false)
+#### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshamal-Masinghe&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+#### ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshamal-Masinghe&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)
+#### ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshamal-Masinghe&theme=transparent&hide_border=false)
 
 
 
 ### GitHub Trophies: <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"></picture>
 ---
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harshamal-Masinghe&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harshamal-Masinghe&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Horizontal Divider (Gradient) -->
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
