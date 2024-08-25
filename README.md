@@ -41,8 +41,11 @@
 ![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark) 
 ![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)
 ![TypeScript](https://skillicons.dev/icons?i=typescript&theme=dark)
+![Python](https://skillicons.dev/icons?i=python&theme=dark)
+![R](https://skillicons.dev/icons?i=r&theme=dark)
 ![HTML5](https://skillicons.dev/icons?i=html&theme=dark) 
 ![CSS3](https://skillicons.dev/icons?i=css&theme=dark)
+![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)
 ![Next.js](https://skillicons.dev/icons?i=next&theme=dark)
 ![React](https://skillicons.dev/icons?i=react&theme=dark)
 ![Redux](https://skillicons.dev/icons?i=redux&theme=dark)
@@ -50,10 +53,14 @@
 ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) 
 ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
 ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark)
+![Postman](https://skillicons.dev/icons?i=postman&theme=dark)
 ![Figma](https://skillicons.dev/icons?i=figma&theme=dark)
+![Photoshop](https://skillicons.dev/icons?i=photoshop&theme=dark)
+![Ilustrator](https://skillicons.dev/icons?i=ai&theme=dark)
 ![Arduino](https://skillicons.dev/icons?i=arduino&theme=dark)
-![npm](https://skillicons.dev/icons?i=npm&theme=dark)
+![AndroidStudio](https://skillicons.dev/icons?i=androidstudio&theme=dark)
 ![Git](https://skillicons.dev/icons?i=git&theme=dark)
+![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
 
 
 
