@@ -66,26 +66,11 @@
 
 ### GitHub Stats: <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"></picture>
 ---
-#### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshamal-Masinghe&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-#### ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshamal-Masinghe&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-#### ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshamal-Masinghe&theme=radical&hide_border=false)
+#### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+#### ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+#### ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=&theme=radical&hide_border=false)
 
-<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Harshamal-Masinghe&show_icons=true&theme=dark&hide_title=true&count_private=true&border_color=444">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshamal-Masinghe&show_icons=true&hide_title=true&count_private=true&border_color=ddd">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshamal-Masinghe&layout=compact&theme=dark&count_private=true&border_color=444">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshamal-Masinghe&layout=compact&count_private=true&border_color=ddd">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Harshamal-Masinghe&theme=dark&border_radius=7&card_width=235&background=0D1117&sideNums=4c8edf&sideLabels=ddd&border=777&dates=999">
-  <img src="https://streak-stats.demolab.com/?user=Harshamal-Masinghe&border_radius=7&card_width=235&sideNums=3483ed&sideLabels=555&border=e1e4e8&dates=777">
-</picture>
-
-</div>
 
 ### GitHub Trophies: <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"></picture>
 ---
