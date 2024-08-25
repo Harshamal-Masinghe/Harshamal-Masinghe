@@ -33,9 +33,9 @@
 
 
 
-### Tech Stack <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"></picture>
+### Languages and Tools <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"></picture>
 ---
-#### Languages 
+
 ![C](https://skillicons.dev/icons?i=c&theme=dark)
 ![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
 ![Java](https://skillicons.dev/icons?i=java&theme=dark) 
@@ -44,24 +44,17 @@
 ![TypeScript](https://skillicons.dev/icons?i=typescript&theme=dark)
 ![HTML5](https://skillicons.dev/icons?i=html&theme=dark) 
 ![CSS3](https://skillicons.dev/icons?i=css&theme=dark)
-
-#### Frameworks and Libraries
 ![Next.js](https://skillicons.dev/icons?i=next&theme=dark)
 ![React](https://skillicons.dev/icons?i=react&theme=dark)
 ![Redux](https://skillicons.dev/icons?i=redux&theme=dark)
 ![Spring Boot](https://skillicons.dev/icons?i=spring&theme=dark)
-
-#### Databases
 ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) 
 ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
 ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark)
-
-#### Tools and Platforms
 ![Figma](https://skillicons.dev/icons?i=figma&theme=dark)
 ![Arduino](https://skillicons.dev/icons?i=arduino&theme=dark)
 ![npm](https://skillicons.dev/icons?i=npm&theme=dark)
 ![Git](https://skillicons.dev/icons?i=git&theme=dark)
-
 
 
 ### GitHub Stats <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"></picture>
