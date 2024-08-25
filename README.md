@@ -46,7 +46,7 @@
 ![CSS3](https://skillicons.dev/icons?i=css&theme=dark)
 
 #### Frameworks and Libraries
-![Next.js](https://skillicons.dev/icons?i=html&theme=dark)
+![Next.js](https://skillicons.dev/icons?i=next&theme=dark)
 ![React](https://skillicons.dev/icons?i=react&theme=dark)
 ![Redux](https://skillicons.dev/icons?i=redux&theme=dark)
 ![Spring Boot](https://skillicons.dev/icons?i=spring&theme=dark)
@@ -57,14 +57,10 @@
 ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark)
 
 #### Tools and Platforms
-![Figma](https://skillicons.dev/icons?i=css&theme=dark)
-![Canva](https://skillicons.dev/icons?i=css&theme=dark)
-![Arduino](https://skillicons.dev/icons?i=css&theme=dark) 
-![Eclipse](https://skillicons.dev/icons?i=css&theme=darkv)
-![IntelliJ IDEA](https://skillicons.dev/icons?i=css&theme=dark)
-![npm](https://skillicons.dev/icons?i=css&theme=dark)
-![Git](https://skillicons.dev/icons?i=css&theme=dark)
-![ChatGPT](https://skillicons.dev/icons?i=css&theme=dark)
+![Figma](https://skillicons.dev/icons?i=figma&theme=dark)
+![Arduino](https://skillicons.dev/icons?i=arduino&theme=dark)
+![npm](https://skillicons.dev/icons?i=npm&theme=dark)
+![Git](https://skillicons.dev/icons?i=git&theme=dark)
 
 
 
