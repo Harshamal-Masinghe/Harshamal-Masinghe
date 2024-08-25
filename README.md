@@ -52,19 +52,19 @@
 ![Spring Boot](https://skillicons.dev/icons?i=spring&theme=dark)
 
 #### Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) 
+![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
+![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark)
 
 #### Tools and Platforms
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) 
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
+![Figma](https://skillicons.dev/icons?i=css&theme=dark)
+![Canva](https://skillicons.dev/icons?i=css&theme=dark)
+![Arduino](https://skillicons.dev/icons?i=css&theme=dark) 
+![Eclipse](https://skillicons.dev/icons?i=css&theme=darkv)
+![IntelliJ IDEA](https://skillicons.dev/icons?i=css&theme=dark)
+![npm](https://skillicons.dev/icons?i=css&theme=dark)
+![Git](https://skillicons.dev/icons?i=css&theme=dark)
+![ChatGPT](https://skillicons.dev/icons?i=css&theme=dark)
 
 
 
