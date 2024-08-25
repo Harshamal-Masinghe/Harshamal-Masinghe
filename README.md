@@ -35,15 +35,15 @@
 
 ### Tech Stack <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"></picture>
 ---
-#### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+#### Languages 
+![C](https://skillicons.dev/icons?i=c&theme=dark)
+![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
+![Java](https://skillicons.dev/icons?i=java&theme=dark) 
+![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark) 
+![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)
+![TypeScript](https://skillicons.dev/icons?i=typescript&theme=dark)
+![HTML5](https://skillicons.dev/icons?i=html&theme=dark) 
+![CSS3](https://skillicons.dev/icons?i=css&theme=dark)
 
 #### Frameworks and Libraries
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
