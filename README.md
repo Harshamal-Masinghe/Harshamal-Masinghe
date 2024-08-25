@@ -46,10 +46,10 @@
 ![CSS3](https://skillicons.dev/icons?i=css&theme=dark)
 
 #### Frameworks and Libraries
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
+![Next.js](https://skillicons.dev/icons?i=html&theme=dark)
+![React](https://skillicons.dev/icons?i=react&theme=dark)
+![Redux](https://skillicons.dev/icons?i=redux&theme=dark)
+![Spring Boot](https://skillicons.dev/icons?i=spring&theme=dark)
 
 #### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) 
