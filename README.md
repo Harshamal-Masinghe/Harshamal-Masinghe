@@ -25,14 +25,14 @@
 
 
 
-### Socials <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"></picture>
+### Socials: <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"></picture>
 --- 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/harshamal-masinghe-a8b964216) 
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/harsha_001x) 
 
 
 
-### Languages and Tools <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"></picture>
+### Languages and Tools: <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"></picture>
 ---
 
 ![C](https://skillicons.dev/icons?i=c&theme=dark)
@@ -64,7 +64,7 @@
 
 
 
-### GitHub Stats <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"></picture>
+### GitHub Stats: <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"></picture>
 ---
 #### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshamal-Masinghe&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 #### ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshamal-Masinghe&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
@@ -72,7 +72,7 @@
 
 
 
-### GitHub Trophies <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"></picture>
+### GitHub Trophies: <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"></picture>
 ---
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harshamal-Masinghe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
